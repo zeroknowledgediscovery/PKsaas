@@ -82,3 +82,11 @@ The output will be of the following .json format:
     {'patient_id': 'P00101606309', 'predicted_risk': 0.00239817, 'decision': 1, 'confidence': 0.9}
 ]
 ```
+
+# Frontend Design and Optimization
+
+We have a preliminary example here: (http://paraknowledge.ai)
+This needs to be augmented or modified to provide the user registration,
+and potentially show usage and invoice to users after they register and login
+
+
