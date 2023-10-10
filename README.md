@@ -11,6 +11,10 @@
 + Build capability to charge account based on pricing tier and usage
 + Have option for generating invoices
 
+
+## Sample dummy programs
+
+Please take a look at the python script (run_dummy_model.py) provided to have an idea about the interface necessary.
 We next describe the IO specification
 
 
