@@ -3,7 +3,7 @@
 
 + Build an API to feed a json object to a python script and get a json object back
 + The API must be able to check credentials either with an API key or registered users
-+ Build functionality to generate and share API keys, and register users from a landing page (example: [paraknowledge.ai] )
++ Build functionality to generate and share API keys, and register users from a landing page (http://paraknowledge.ai)
 + Build capability to monitor usage:
   - how mnay API calls
   - determine the pricing tier based on api-key or user-registration
