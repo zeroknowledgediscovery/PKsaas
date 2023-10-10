@@ -1,6 +1,3 @@
-# PKsaas
-API specification
-
 # **SaaS Specification**
 
 ## **Data Processing**

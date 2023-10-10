@@ -1,0 +1,1202 @@
+[
+    {
+        "patient_id": "P00101606306",
+        "predicted_risk": 0.010558417886586836,
+        "decision": 0,
+        "confidence": 0.05846184968537009
+    },
+    {
+        "patient_id": "P00142969604",
+        "predicted_risk": 0.006659245694771815,
+        "decision": 0,
+        "confidence": 0.09097734210929079
+    },
+    {
+        "patient_id": "P00156309802",
+        "predicted_risk": 0.007488946042888306,
+        "decision": 0,
+        "confidence": 0.6183933059399107
+    },
+    {
+        "patient_id": "P00130040904",
+        "predicted_risk": 0.011123110616708072,
+        "decision": 0,
+        "confidence": 0.0291762869050381
+    },
+    {
+        "patient_id": "P00138355602",
+        "predicted_risk": 0.015255443202227093,
+        "decision": 0,
+        "confidence": 0.507630251593332
+    },
+    {
+        "patient_id": "P00103158106",
+        "predicted_risk": 0.030189015152873835,
+        "decision": 0,
+        "confidence": 0.5353905252388215
+    },
+    {
+        "patient_id": "P00136457904",
+        "predicted_risk": 0.008166516952554754,
+        "decision": 0,
+        "confidence": 0.36726983336381014
+    },
+    {
+        "patient_id": "P00141925404",
+        "predicted_risk": 0.016436472812816457,
+        "decision": 0,
+        "confidence": 0.5856196968057509
+    },
+    {
+        "patient_id": "P00198130104",
+        "predicted_risk": 0.004526220383907798,
+        "decision": 0,
+        "confidence": 0.3667137996024856
+    },
+    {
+        "patient_id": "P00136963605",
+        "predicted_risk": 0.005012499365845469,
+        "decision": 0,
+        "confidence": 0.11564824299655166
+    },
+    {
+        "patient_id": "P00170787002",
+        "predicted_risk": 0.036325825686042826,
+        "decision": 1,
+        "confidence": 0.004247734191794492
+    },
+    {
+        "patient_id": "P00158704304",
+        "predicted_risk": 0.031132677936734604,
+        "decision": 0,
+        "confidence": 0.6028841232049066
+    },
+    {
+        "patient_id": "P00131067804",
+        "predicted_risk": 0.045510475826010484,
+        "decision": 1,
+        "confidence": 0.2608635307609202
+    },
+    {
+        "patient_id": "P00175112903",
+        "predicted_risk": 0.002032606728244718,
+        "decision": 0,
+        "confidence": 0.05280225165724774
+    },
+    {
+        "patient_id": "P00110762906",
+        "predicted_risk": 0.02444581947667788,
+        "decision": 0,
+        "confidence": 0.05222990501405901
+    },
+    {
+        "patient_id": "P00131466603",
+        "predicted_risk": 0.04528613117592653,
+        "decision": 1,
+        "confidence": 0.2483740553896816
+    },
+    {
+        "patient_id": "P00159153603",
+        "predicted_risk": 0.029636827585480224,
+        "decision": 0,
+        "confidence": 0.6021472637704193
+    },
+    {
+        "patient_id": "P00187632102",
+        "predicted_risk": 0.01284658601821872,
+        "decision": 0,
+        "confidence": 0.0545401521616973
+    },
+    {
+        "patient_id": "P00136604803",
+        "predicted_risk": 2.3770587439975178e-05,
+        "decision": 0,
+        "confidence": 0.13863384634654838
+    },
+    {
+        "patient_id": "P00170231004",
+        "predicted_risk": 0.033795575304243125,
+        "decision": 0,
+        "confidence": 0.09507876428249395
+    },
+    {
+        "patient_id": "P00172538804",
+        "predicted_risk": 0.03773311538701497,
+        "decision": 1,
+        "confidence": 0.47933853562197215
+    },
+    {
+        "patient_id": "P00137135304",
+        "predicted_risk": 0.022633660498339443,
+        "decision": 0,
+        "confidence": 0.14641991555203246
+    },
+    {
+        "patient_id": "P00141719404",
+        "predicted_risk": 0.026663525646020803,
+        "decision": 0,
+        "confidence": 0.5752039156980726
+    },
+    {
+        "patient_id": "P00130283604",
+        "predicted_risk": 0.005664736236199403,
+        "decision": 0,
+        "confidence": 0.13074599941075926
+    },
+    {
+        "patient_id": "P00185479402",
+        "predicted_risk": 0.024728152156427194,
+        "decision": 0,
+        "confidence": 0.5038316142222208
+    },
+    {
+        "patient_id": "P00135439103",
+        "predicted_risk": 0.02515984797228567,
+        "decision": 0,
+        "confidence": 0.03911933769379182
+    },
+    {
+        "patient_id": "P00138219606",
+        "predicted_risk": 0.02755693334702788,
+        "decision": 0,
+        "confidence": 0.6365147911962257
+    },
+    {
+        "patient_id": "P00144534105",
+        "predicted_risk": 0.020551928200446226,
+        "decision": 0,
+        "confidence": 0.1294308495277648
+    },
+    {
+        "patient_id": "P00140282805",
+        "predicted_risk": 0.038444979583226686,
+        "decision": 1,
+        "confidence": 0.014563963574500126
+    },
+    {
+        "patient_id": "P00142249403",
+        "predicted_risk": 0.02738122145368274,
+        "decision": 0,
+        "confidence": 0.6464539598764716
+    },
+    {
+        "patient_id": "P00131544804",
+        "predicted_risk": 0.03251809531786494,
+        "decision": 0,
+        "confidence": 0.17957750572693665
+    },
+    {
+        "patient_id": "P00135249603",
+        "predicted_risk": 0.023447251036638795,
+        "decision": 0,
+        "confidence": 0.41531588280542675
+    },
+    {
+        "patient_id": "P00124496804",
+        "predicted_risk": 0.00635845241997653,
+        "decision": 0,
+        "confidence": 0.25129951179403237
+    },
+    {
+        "patient_id": "P00130410906",
+        "predicted_risk": 0.04688496765701275,
+        "decision": 1,
+        "confidence": 0.09748544004776663
+    },
+    {
+        "patient_id": "P00158447707",
+        "predicted_risk": 0.038516472137906654,
+        "decision": 1,
+        "confidence": 0.263369614769674
+    },
+    {
+        "patient_id": "P00142969704",
+        "predicted_risk": 0.04962978035182092,
+        "decision": 1,
+        "confidence": 0.5007357082919671
+    },
+    {
+        "patient_id": "P00130015404",
+        "predicted_risk": 0.004761920339478843,
+        "decision": 0,
+        "confidence": 0.13054777977459506
+    },
+    {
+        "patient_id": "P00136780104",
+        "predicted_risk": 0.03685312796701739,
+        "decision": 1,
+        "confidence": 0.14143334328335413
+    },
+    {
+        "patient_id": "P00104368704",
+        "predicted_risk": 0.0026320900218281098,
+        "decision": 0,
+        "confidence": 0.07366665120108225
+    },
+    {
+        "patient_id": "P00174307303",
+        "predicted_risk": 0.04308547397405471,
+        "decision": 1,
+        "confidence": 0.3627707013185362
+    },
+    {
+        "patient_id": "P00140359603",
+        "predicted_risk": 0.045181401580436854,
+        "decision": 1,
+        "confidence": 0.5535783872858987
+    },
+    {
+        "patient_id": "P00161455604",
+        "predicted_risk": 0.03569676118722833,
+        "decision": 1,
+        "confidence": 0.34057088223699383
+    },
+    {
+        "patient_id": "P00199770003",
+        "predicted_risk": 0.02214667656388779,
+        "decision": 0,
+        "confidence": 0.13979900704566464
+    },
+    {
+        "patient_id": "P00161849703",
+        "predicted_risk": 0.005934618924540319,
+        "decision": 0,
+        "confidence": 0.6187841088192354
+    },
+    {
+        "patient_id": "P00173043203",
+        "predicted_risk": 0.0318643969215957,
+        "decision": 0,
+        "confidence": 0.6548560921777223
+    },
+    {
+        "patient_id": "P00140356904",
+        "predicted_risk": 0.0296773166439984,
+        "decision": 0,
+        "confidence": 0.17235862428116308
+    },
+    {
+        "patient_id": "P00155644308",
+        "predicted_risk": 0.03402924740510127,
+        "decision": 0,
+        "confidence": 0.6086034521704138
+    },
+    {
+        "patient_id": "P00138443204",
+        "predicted_risk": 0.031650272817081035,
+        "decision": 0,
+        "confidence": 0.3562157266418339
+    },
+    {
+        "patient_id": "P00171408808",
+        "predicted_risk": 0.03297896602081876,
+        "decision": 0,
+        "confidence": 0.3917807284774681
+    },
+    {
+        "patient_id": "P00135119503",
+        "predicted_risk": 0.014280886771853374,
+        "decision": 0,
+        "confidence": 0.17877229793998092
+    },
+    {
+        "patient_id": "P00176612804",
+        "predicted_risk": 0.04864076037410804,
+        "decision": 1,
+        "confidence": 0.41764479473483823
+    },
+    {
+        "patient_id": "P00171637004",
+        "predicted_risk": 0.004550011017939665,
+        "decision": 0,
+        "confidence": 0.150282807069026
+    },
+    {
+        "patient_id": "P00107406004",
+        "predicted_risk": 0.011784213687375467,
+        "decision": 0,
+        "confidence": 0.6066611479835298
+    },
+    {
+        "patient_id": "P00129163304",
+        "predicted_risk": 0.04603486974565968,
+        "decision": 1,
+        "confidence": 0.4281632264490622
+    },
+    {
+        "patient_id": "P00159413003",
+        "predicted_risk": 0.020087865747302376,
+        "decision": 0,
+        "confidence": 0.5940255631348437
+    },
+    {
+        "patient_id": "P00177865204",
+        "predicted_risk": 0.010435682900702865,
+        "decision": 0,
+        "confidence": 0.11986243641965053
+    },
+    {
+        "patient_id": "P00130117602",
+        "predicted_risk": 0.04345506902258364,
+        "decision": 1,
+        "confidence": 0.4238666316053704
+    },
+    {
+        "patient_id": "P00187414003",
+        "predicted_risk": 0.03790288407613057,
+        "decision": 1,
+        "confidence": 0.5035255191012807
+    },
+    {
+        "patient_id": "P00173470804",
+        "predicted_risk": 0.03586968564932451,
+        "decision": 1,
+        "confidence": 0.5652449671682964
+    },
+    {
+        "patient_id": "P00192884404",
+        "predicted_risk": 0.01834907269615409,
+        "decision": 0,
+        "confidence": 0.388999367532414
+    },
+    {
+        "patient_id": "P00141421405",
+        "predicted_risk": 0.012693248107703087,
+        "decision": 0,
+        "confidence": 0.35019781445142967
+    },
+    {
+        "patient_id": "P00156879106",
+        "predicted_risk": 0.019552122623042092,
+        "decision": 0,
+        "confidence": 0.26579169108043516
+    },
+    {
+        "patient_id": "P00178232004",
+        "predicted_risk": 0.014965390666434887,
+        "decision": 0,
+        "confidence": 0.27660959303832555
+    },
+    {
+        "patient_id": "P00172812504",
+        "predicted_risk": 0.01084762021439214,
+        "decision": 0,
+        "confidence": 0.222332261522257
+    },
+    {
+        "patient_id": "P00143693004",
+        "predicted_risk": 0.0002185486416615923,
+        "decision": 0,
+        "confidence": 0.1705472801076703
+    },
+    {
+        "patient_id": "P00141896705",
+        "predicted_risk": 0.008755397253579383,
+        "decision": 0,
+        "confidence": 0.6279351937134319
+    },
+    {
+        "patient_id": "P00140201304",
+        "predicted_risk": 0.03515199702970241,
+        "decision": 1,
+        "confidence": 0.00925393035734701
+    },
+    {
+        "patient_id": "P00187719102",
+        "predicted_risk": 0.014333996300727897,
+        "decision": 0,
+        "confidence": 0.45087553075649267
+    },
+    {
+        "patient_id": "P00157440305",
+        "predicted_risk": 0.04371106701445577,
+        "decision": 1,
+        "confidence": 0.19494085581468393
+    },
+    {
+        "patient_id": "P00157782404",
+        "predicted_risk": 0.03783448265478759,
+        "decision": 1,
+        "confidence": 0.5449789412437114
+    },
+    {
+        "patient_id": "P00138262204",
+        "predicted_risk": 0.025753600297107118,
+        "decision": 0,
+        "confidence": 0.07950909690138157
+    },
+    {
+        "patient_id": "P00138406205",
+        "predicted_risk": 0.04714646727112101,
+        "decision": 1,
+        "confidence": 0.4603728036509959
+    },
+    {
+        "patient_id": "P00178330605",
+        "predicted_risk": 0.007790472314590763,
+        "decision": 0,
+        "confidence": 0.4899025982313208
+    },
+    {
+        "patient_id": "P00172249503",
+        "predicted_risk": 0.027344458905037103,
+        "decision": 0,
+        "confidence": 0.19164876822059831
+    },
+    {
+        "patient_id": "P00143621803",
+        "predicted_risk": 0.04262602520564995,
+        "decision": 1,
+        "confidence": 0.3390478080748609
+    },
+    {
+        "patient_id": "P00132154303",
+        "predicted_risk": 0.015003629234115724,
+        "decision": 0,
+        "confidence": 0.3364212854620362
+    },
+    {
+        "patient_id": "P00106198507",
+        "predicted_risk": 0.04929272687611885,
+        "decision": 1,
+        "confidence": 0.5784737663024785
+    },
+    {
+        "patient_id": "P00128441705",
+        "predicted_risk": 0.03428474110600745,
+        "decision": 0,
+        "confidence": 0.45200238398022113
+    },
+    {
+        "patient_id": "P00174171604",
+        "predicted_risk": 0.032483357277812826,
+        "decision": 0,
+        "confidence": 0.021932435885021594
+    },
+    {
+        "patient_id": "P00154202305",
+        "predicted_risk": 0.03548540197432634,
+        "decision": 1,
+        "confidence": 0.452291968473419
+    },
+    {
+        "patient_id": "P00170163704",
+        "predicted_risk": 0.019206183454263188,
+        "decision": 0,
+        "confidence": 0.3799215630316915
+    },
+    {
+        "patient_id": "P00124351304",
+        "predicted_risk": 0.03245980924694921,
+        "decision": 0,
+        "confidence": 0.028902368353094024
+    },
+    {
+        "patient_id": "P00178125105",
+        "predicted_risk": 0.014334786588735417,
+        "decision": 0,
+        "confidence": 0.3388738318486888
+    },
+    {
+        "patient_id": "P00140401304",
+        "predicted_risk": 0.028892508614410697,
+        "decision": 0,
+        "confidence": 0.33108453247084246
+    },
+    {
+        "patient_id": "P00130117604",
+        "predicted_risk": 0.0017527297280325205,
+        "decision": 0,
+        "confidence": 0.49806895156914144
+    },
+    {
+        "patient_id": "P00133079604",
+        "predicted_risk": 0.019461879139368195,
+        "decision": 0,
+        "confidence": 0.41567851130852973
+    },
+    {
+        "patient_id": "P00103158103",
+        "predicted_risk": 0.013425914077832885,
+        "decision": 0,
+        "confidence": 0.38223770810425023
+    },
+    {
+        "patient_id": "P00103441203",
+        "predicted_risk": 0.03782524041699843,
+        "decision": 1,
+        "confidence": 0.53767705675024
+    },
+    {
+        "patient_id": "P00153643906",
+        "predicted_risk": 0.0008856927156305705,
+        "decision": 0,
+        "confidence": 0.6220283341915692
+    },
+    {
+        "patient_id": "P00154698504",
+        "predicted_risk": 0.006469177158350121,
+        "decision": 0,
+        "confidence": 0.26377937336532326
+    },
+    {
+        "patient_id": "P00148322006",
+        "predicted_risk": 0.04440853655077406,
+        "decision": 1,
+        "confidence": 0.5685946671769041
+    },
+    {
+        "patient_id": "P00131287604",
+        "predicted_risk": 0.024561901169438967,
+        "decision": 0,
+        "confidence": 0.33879949337413634
+    },
+    {
+        "patient_id": "P00170460605",
+        "predicted_risk": 0.029612764465992876,
+        "decision": 0,
+        "confidence": 0.14741091789497546
+    },
+    {
+        "patient_id": "P00196881603",
+        "predicted_risk": 0.006094276864034943,
+        "decision": 0,
+        "confidence": 0.539154031392642
+    },
+    {
+        "patient_id": "P00146336503",
+        "predicted_risk": 0.019499315643546795,
+        "decision": 0,
+        "confidence": 0.5372270011817739
+    },
+    {
+        "patient_id": "P00175341105",
+        "predicted_risk": 0.0019910580001402667,
+        "decision": 0,
+        "confidence": 0.31607598552248584
+    },
+    {
+        "patient_id": "P00140103502",
+        "predicted_risk": 0.04541560168488691,
+        "decision": 1,
+        "confidence": 0.3038421814100318
+    },
+    {
+        "patient_id": "P00189677605",
+        "predicted_risk": 0.04661735691180455,
+        "decision": 1,
+        "confidence": 0.5883998268295125
+    },
+    {
+        "patient_id": "P00172751704",
+        "predicted_risk": 0.0119513377385364,
+        "decision": 0,
+        "confidence": 0.4114918875601781
+    },
+    {
+        "patient_id": "P00152268904",
+        "predicted_risk": 0.041623309961228226,
+        "decision": 1,
+        "confidence": 0.5388636923889486
+    },
+    {
+        "patient_id": "P00125297204",
+        "predicted_risk": 0.039249021432550824,
+        "decision": 1,
+        "confidence": 0.5335845019116086
+    },
+    {
+        "patient_id": "P00125115711",
+        "predicted_risk": 0.00526037738130602,
+        "decision": 0,
+        "confidence": 0.3187119969813833
+    },
+    {
+        "patient_id": "P00152873709",
+        "predicted_risk": 0.04344927023818562,
+        "decision": 1,
+        "confidence": 0.3416214930615614
+    },
+    {
+        "patient_id": "P00190363406",
+        "predicted_risk": 0.0069127693479996925,
+        "decision": 0,
+        "confidence": 0.36247207336311965
+    },
+    {
+        "patient_id": "P00192866903",
+        "predicted_risk": 0.0247776652928356,
+        "decision": 0,
+        "confidence": 0.477387131312357
+    },
+    {
+        "patient_id": "P00131879704",
+        "predicted_risk": 0.026038484839534817,
+        "decision": 0,
+        "confidence": 0.45190425273243745
+    },
+    {
+        "patient_id": "P00102154605",
+        "predicted_risk": 0.04170344618498661,
+        "decision": 1,
+        "confidence": 0.6321440633979691
+    },
+    {
+        "patient_id": "P00107546205",
+        "predicted_risk": 0.02103165475576892,
+        "decision": 0,
+        "confidence": 0.3243550906456779
+    },
+    {
+        "patient_id": "P00138017006",
+        "predicted_risk": 0.04375698372818617,
+        "decision": 1,
+        "confidence": 0.03158843656578702
+    },
+    {
+        "patient_id": "P00159277405",
+        "predicted_risk": 0.004655247028865656,
+        "decision": 0,
+        "confidence": 0.32049768931949657
+    },
+    {
+        "patient_id": "P00105706705",
+        "predicted_risk": 0.023276392361786854,
+        "decision": 0,
+        "confidence": 0.3193100255961049
+    },
+    {
+        "patient_id": "P00137754504",
+        "predicted_risk": 0.012466550440760471,
+        "decision": 0,
+        "confidence": 0.17261172092817756
+    },
+    {
+        "patient_id": "P00196736403",
+        "predicted_risk": 0.02926903407780017,
+        "decision": 0,
+        "confidence": 0.5680913758419042
+    },
+    {
+        "patient_id": "P00139766205",
+        "predicted_risk": 0.01189096681879105,
+        "decision": 0,
+        "confidence": 0.10125902682493566
+    },
+    {
+        "patient_id": "P00131677905",
+        "predicted_risk": 0.015233928269418752,
+        "decision": 0,
+        "confidence": 0.4930623558841372
+    },
+    {
+        "patient_id": "P00152428104",
+        "predicted_risk": 0.04368216344739234,
+        "decision": 1,
+        "confidence": 0.592361787145262
+    },
+    {
+        "patient_id": "P00148313904",
+        "predicted_risk": 0.007559108459181358,
+        "decision": 0,
+        "confidence": 0.2691476441016251
+    },
+    {
+        "patient_id": "P00178458803",
+        "predicted_risk": 0.036681637827209575,
+        "decision": 1,
+        "confidence": 0.3124123103627127
+    },
+    {
+        "patient_id": "P00100593405",
+        "predicted_risk": 0.001163072761301165,
+        "decision": 0,
+        "confidence": 0.22149561703907392
+    },
+    {
+        "patient_id": "P00130900605",
+        "predicted_risk": 0.04361543307390246,
+        "decision": 1,
+        "confidence": 0.26673275826398624
+    },
+    {
+        "patient_id": "P00174127603",
+        "predicted_risk": 0.028830274244212563,
+        "decision": 0,
+        "confidence": 0.5228765663699027
+    },
+    {
+        "patient_id": "P00197000803",
+        "predicted_risk": 0.04711768325869003,
+        "decision": 1,
+        "confidence": 0.3351175714904375
+    },
+    {
+        "patient_id": "P00173825706",
+        "predicted_risk": 0.01660079407321643,
+        "decision": 0,
+        "confidence": 0.12770630734012342
+    },
+    {
+        "patient_id": "P00124098904",
+        "predicted_risk": 0.015985299229202245,
+        "decision": 0,
+        "confidence": 0.6289224006862576
+    },
+    {
+        "patient_id": "P00175924207",
+        "predicted_risk": 0.026515100795099056,
+        "decision": 0,
+        "confidence": 0.09197866584138081
+    },
+    {
+        "patient_id": "P00105941202",
+        "predicted_risk": 0.04300053228988163,
+        "decision": 1,
+        "confidence": 0.47546687200896975
+    },
+    {
+        "patient_id": "P00160353803",
+        "predicted_risk": 0.03789888870941473,
+        "decision": 1,
+        "confidence": 0.4340409222701691
+    },
+    {
+        "patient_id": "P00171083406",
+        "predicted_risk": 0.015705030557246792,
+        "decision": 0,
+        "confidence": 0.3856589632541956
+    },
+    {
+        "patient_id": "P00148185604",
+        "predicted_risk": 0.0037147304141965324,
+        "decision": 0,
+        "confidence": 0.5806408448829881
+    },
+    {
+        "patient_id": "P00138745405",
+        "predicted_risk": 0.01712250678911052,
+        "decision": 0,
+        "confidence": 0.23313310577823615
+    },
+    {
+        "patient_id": "P00140288904",
+        "predicted_risk": 0.04514130556314106,
+        "decision": 1,
+        "confidence": 0.08197528048419943
+    },
+    {
+        "patient_id": "P00170215305",
+        "predicted_risk": 0.010062161242155643,
+        "decision": 0,
+        "confidence": 0.448073110909028
+    },
+    {
+        "patient_id": "P00174165607",
+        "predicted_risk": 0.01889608519040168,
+        "decision": 0,
+        "confidence": 0.49963262708328876
+    },
+    {
+        "patient_id": "P00143410603",
+        "predicted_risk": 0.000567156000344099,
+        "decision": 0,
+        "confidence": 0.09277872752860503
+    },
+    {
+        "patient_id": "P00171297205",
+        "predicted_risk": 0.03311684070644909,
+        "decision": 0,
+        "confidence": 0.5537699700093497
+    },
+    {
+        "patient_id": "P00133827103",
+        "predicted_risk": 0.024182751681599047,
+        "decision": 0,
+        "confidence": 0.09557600037402478
+    },
+    {
+        "patient_id": "P00173026412",
+        "predicted_risk": 0.010170413347417579,
+        "decision": 0,
+        "confidence": 0.42869721278251127
+    },
+    {
+        "patient_id": "P00171536803",
+        "predicted_risk": 0.0198867599137878,
+        "decision": 0,
+        "confidence": 0.44595441805055036
+    },
+    {
+        "patient_id": "P00174397905",
+        "predicted_risk": 0.03153529808735507,
+        "decision": 0,
+        "confidence": 0.18662796555740288
+    },
+    {
+        "patient_id": "P00175881304",
+        "predicted_risk": 0.029739101076320596,
+        "decision": 0,
+        "confidence": 0.22188000938349184
+    },
+    {
+        "patient_id": "P00192656305",
+        "predicted_risk": 0.04112093727242161,
+        "decision": 1,
+        "confidence": 0.1742460858299713
+    },
+    {
+        "patient_id": "P00128941504",
+        "predicted_risk": 0.01692555946942818,
+        "decision": 0,
+        "confidence": 0.5807036949094436
+    },
+    {
+        "patient_id": "P00132236903",
+        "predicted_risk": 0.008947819752445524,
+        "decision": 0,
+        "confidence": 0.5608917046124237
+    },
+    {
+        "patient_id": "P00159230004",
+        "predicted_risk": 0.033270723012710744,
+        "decision": 0,
+        "confidence": 0.5806448314454183
+    },
+    {
+        "patient_id": "P00103839504",
+        "predicted_risk": 0.04320756652453148,
+        "decision": 1,
+        "confidence": 0.6446542951571878
+    },
+    {
+        "patient_id": "P00174228105",
+        "predicted_risk": 0.028375579941689655,
+        "decision": 0,
+        "confidence": 0.4618509641006726
+    },
+    {
+        "patient_id": "P00160731702",
+        "predicted_risk": 0.04196395311656089,
+        "decision": 1,
+        "confidence": 0.01772361098265278
+    },
+    {
+        "patient_id": "P00155747403",
+        "predicted_risk": 0.021948718293250475,
+        "decision": 0,
+        "confidence": 0.5864559910409961
+    },
+    {
+        "patient_id": "P00146613204",
+        "predicted_risk": 0.002823288707958083,
+        "decision": 0,
+        "confidence": 0.1520341647544604
+    },
+    {
+        "patient_id": "P00171721303",
+        "predicted_risk": 0.039270259805546506,
+        "decision": 1,
+        "confidence": 0.523744105865381
+    },
+    {
+        "patient_id": "P00100021604",
+        "predicted_risk": 0.016733167277530277,
+        "decision": 0,
+        "confidence": 0.5041353703366117
+    },
+    {
+        "patient_id": "P00173481804",
+        "predicted_risk": 0.01234593004883891,
+        "decision": 0,
+        "confidence": 0.10101298717690804
+    },
+    {
+        "patient_id": "P00129607803",
+        "predicted_risk": 0.021360576979867582,
+        "decision": 0,
+        "confidence": 0.025408134722406803
+    },
+    {
+        "patient_id": "P00134709207",
+        "predicted_risk": 0.017496938235694516,
+        "decision": 0,
+        "confidence": 0.4541085757056926
+    },
+    {
+        "patient_id": "P00138078208",
+        "predicted_risk": 0.03829476507655985,
+        "decision": 1,
+        "confidence": 0.08833903793480373
+    },
+    {
+        "patient_id": "P00143412706",
+        "predicted_risk": 0.024963228867794802,
+        "decision": 0,
+        "confidence": 0.13575577410411765
+    },
+    {
+        "patient_id": "P00132007904",
+        "predicted_risk": 0.033345427112601675,
+        "decision": 0,
+        "confidence": 0.20322316039607757
+    },
+    {
+        "patient_id": "P00172243605",
+        "predicted_risk": 0.001624317904218131,
+        "decision": 0,
+        "confidence": 0.5370139269601065
+    },
+    {
+        "patient_id": "P00135176504",
+        "predicted_risk": 0.014667568237850481,
+        "decision": 0,
+        "confidence": 0.04233304955304825
+    },
+    {
+        "patient_id": "P00175059103",
+        "predicted_risk": 0.04416470657346391,
+        "decision": 1,
+        "confidence": 0.04834487409122818
+    },
+    {
+        "patient_id": "P00144667607",
+        "predicted_risk": 0.030092711286370512,
+        "decision": 0,
+        "confidence": 0.3554264872958522
+    },
+    {
+        "patient_id": "P00174090004",
+        "predicted_risk": 0.040241694040269414,
+        "decision": 1,
+        "confidence": 0.0734753691134893
+    },
+    {
+        "patient_id": "P00155617406",
+        "predicted_risk": 0.027126726220896014,
+        "decision": 0,
+        "confidence": 0.6332854836453281
+    },
+    {
+        "patient_id": "P00190961503",
+        "predicted_risk": 0.04617665360957336,
+        "decision": 1,
+        "confidence": 0.5223009997024164
+    },
+    {
+        "patient_id": "P00136965105",
+        "predicted_risk": 0.0071092327363945,
+        "decision": 0,
+        "confidence": 0.6160079265505572
+    },
+    {
+        "patient_id": "P00146477710",
+        "predicted_risk": 0.040752097309453804,
+        "decision": 1,
+        "confidence": 0.6168407629262119
+    },
+    {
+        "patient_id": "P00198529405",
+        "predicted_risk": 0.0025290820698903927,
+        "decision": 0,
+        "confidence": 0.026545637158160988
+    },
+    {
+        "patient_id": "P00130272805",
+        "predicted_risk": 0.04119924792896976,
+        "decision": 1,
+        "confidence": 0.052984818960732795
+    },
+    {
+        "patient_id": "P00158424304",
+        "predicted_risk": 0.024778575829151984,
+        "decision": 0,
+        "confidence": 0.10198002675586261
+    },
+    {
+        "patient_id": "P00187741903",
+        "predicted_risk": 0.03138051653830213,
+        "decision": 0,
+        "confidence": 0.3751888626352869
+    },
+    {
+        "patient_id": "P00144416904",
+        "predicted_risk": 0.014171735321698565,
+        "decision": 0,
+        "confidence": 0.059116700056745436
+    },
+    {
+        "patient_id": "P00133245104",
+        "predicted_risk": 0.02512700019796381,
+        "decision": 0,
+        "confidence": 0.04332603466906515
+    },
+    {
+        "patient_id": "P00178308104",
+        "predicted_risk": 0.021895723850157357,
+        "decision": 0,
+        "confidence": 0.3641831259586486
+    },
+    {
+        "patient_id": "P00106734303",
+        "predicted_risk": 0.045527775972114715,
+        "decision": 1,
+        "confidence": 0.16250351269849864
+    },
+    {
+        "patient_id": "P00132084903",
+        "predicted_risk": 0.01907488892377491,
+        "decision": 0,
+        "confidence": 0.5927743098289022
+    },
+    {
+        "patient_id": "P00133656603",
+        "predicted_risk": 0.027148814767677595,
+        "decision": 0,
+        "confidence": 0.092333093741923
+    },
+    {
+        "patient_id": "P00135078205",
+        "predicted_risk": 0.009775205343024118,
+        "decision": 0,
+        "confidence": 0.05244863275675553
+    },
+    {
+        "patient_id": "P00172569008",
+        "predicted_risk": 0.01652783159539375,
+        "decision": 0,
+        "confidence": 0.2972472116768394
+    },
+    {
+        "patient_id": "P00133693404",
+        "predicted_risk": 0.014282544602775777,
+        "decision": 0,
+        "confidence": 0.36981835686201786
+    },
+    {
+        "patient_id": "P00145067205",
+        "predicted_risk": 0.03444001922076209,
+        "decision": 0,
+        "confidence": 0.5749796030885076
+    },
+    {
+        "patient_id": "P00133525604",
+        "predicted_risk": 0.03660775652627648,
+        "decision": 1,
+        "confidence": 0.15368659155150152
+    },
+    {
+        "patient_id": "P00104503003",
+        "predicted_risk": 0.0005947822299708916,
+        "decision": 0,
+        "confidence": 0.04158837174477348
+    },
+    {
+        "patient_id": "P00170762903",
+        "predicted_risk": 0.003176209833526056,
+        "decision": 0,
+        "confidence": 0.12860917110874026
+    },
+    {
+        "patient_id": "P00139966104",
+        "predicted_risk": 0.02904859388329283,
+        "decision": 0,
+        "confidence": 0.40223427537174367
+    },
+    {
+        "patient_id": "P00172088004",
+        "predicted_risk": 0.009069208349337892,
+        "decision": 0,
+        "confidence": 0.5553794726834101
+    },
+    {
+        "patient_id": "P00124633502",
+        "predicted_risk": 0.01933188896914946,
+        "decision": 0,
+        "confidence": 0.19282607153758438
+    },
+    {
+        "patient_id": "P00135100506",
+        "predicted_risk": 0.022915684252538565,
+        "decision": 0,
+        "confidence": 0.3151089365652991
+    },
+    {
+        "patient_id": "P00173456102",
+        "predicted_risk": 0.006722076876774569,
+        "decision": 0,
+        "confidence": 0.5660742522007911
+    },
+    {
+        "patient_id": "P00170378905",
+        "predicted_risk": 0.044015846618405755,
+        "decision": 1,
+        "confidence": 0.11451115322786433
+    },
+    {
+        "patient_id": "P00140361004",
+        "predicted_risk": 0.021346717087707984,
+        "decision": 0,
+        "confidence": 0.02208022881204863
+    },
+    {
+        "patient_id": "P00194370402",
+        "predicted_risk": 0.048577852467723115,
+        "decision": 1,
+        "confidence": 0.21124698983847082
+    },
+    {
+        "patient_id": "P00170245402",
+        "predicted_risk": 0.020342731587934867,
+        "decision": 0,
+        "confidence": 0.23078734926133412
+    },
+    {
+        "patient_id": "P00131907802",
+        "predicted_risk": 0.018188039060565233,
+        "decision": 0,
+        "confidence": 0.5960333229180973
+    },
+    {
+        "patient_id": "P00131537504",
+        "predicted_risk": 0.03557682391595817,
+        "decision": 1,
+        "confidence": 0.5751791761008428
+    },
+    {
+        "patient_id": "P00134809902",
+        "predicted_risk": 0.026579005145259512,
+        "decision": 0,
+        "confidence": 0.33974510276256153
+    },
+    {
+        "patient_id": "P00171584403",
+        "predicted_risk": 0.027903780043259004,
+        "decision": 0,
+        "confidence": 0.5172026579457442
+    },
+    {
+        "patient_id": "P00171471206",
+        "predicted_risk": 0.011219289738991334,
+        "decision": 0,
+        "confidence": 0.07165223076694964
+    },
+    {
+        "patient_id": "P00128643503",
+        "predicted_risk": 0.020832815502841363,
+        "decision": 0,
+        "confidence": 0.0481891523784264
+    },
+    {
+        "patient_id": "P00146843205",
+        "predicted_risk": 0.04037402065867257,
+        "decision": 1,
+        "confidence": 0.6508621535680614
+    },
+    {
+        "patient_id": "P00177787503",
+        "predicted_risk": 0.03699464505302335,
+        "decision": 1,
+        "confidence": 0.31133735035184884
+    }
+]
