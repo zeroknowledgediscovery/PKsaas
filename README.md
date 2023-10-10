@@ -7,7 +7,7 @@
 + Build capability to monitor usage:
   - how mnay API calls
   - determine the pricing tier based on api-key or user-registration
-  - detrmine the number of samples used per call
+  - detrmine the number of samples analyzed per api call (number of patients in the input json object)
 + Build capability to charge account based on pricing tier and usage
 + Have option for generating invoices
 
