@@ -1,4 +1,4 @@
-# **SaaS Specification**
+# 1. SaaS Specification
 
 
 + Build an API to feed a json object to a python script and get a json object back
@@ -11,12 +11,12 @@
 + Build capability to charge account based on pricing tier and usage
 + Have option for generating invoices
 
-# We next describe the IO specification
+We next describe the IO specification
 
 
 
 
-## **Data IO Specification**
+## Data IO Specification
 
 The input/output operations will be handled by the python script. An example, called `run_dummy_model.py`,
 will be provided for reference.
@@ -83,7 +83,7 @@ The output will be of the following .json format:
 ]
 ```
 
-# Frontend Design and Optimization
+# 2. Frontend Design and Optimization
 
 We have a preliminary example here: (http://paraknowledge.ai)
 This needs to be augmented or modified to provide the user registration,
