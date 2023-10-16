@@ -34,7 +34,7 @@ python3 run_dummy_model.py -p SAMPLE_MODEL.pickle -i sample_data.json -v True
 
 If -o if not specified, the script will print the json object into the STDOUT.
 
-The output should be saved to the database.
+The output should be logged in a user history.
 
 ### **Input/Output Format**
 
