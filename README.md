@@ -5,18 +5,33 @@
 + The API must be able to check credentials either with an API key or registered users
 + Build functionality to generate and share API keys, and register users from a landing page (http://paraknowledge.ai)
 + Build capability to monitor usage:
-  - how mnay API calls
+  - how many API calls
   - determine the pricing tier based on api-key or user-registration
-  - detrmine the number of samples analyzed per api call (number of patients in the input json object)
+  - determine the number of samples analyzed per api call (number of patients in the input json object)
 + Build capability to charge account based on pricing tier and usage
 + Have option for generating invoices
+
+
+## Required software
+
+API's codebase must work on Python **3.9.16** exactly.
+
+In order to simulate the intended software installation, versioning and usage, please install the `zcor_dummy` python package.
+It is necessary to simulate the loading and usage of the `DUMMY_PREDICTOR.pickle`
+
+```bash
+pip install --no-deps git+https://github.com/zeroknowledgediscovery/zcor_dummy.git
+```
+
+IMPORTANT :: the `--no-deps` argument above will ensure the consistency within the `zcor_dummy` requirements
+***at the expense of the dependency consistency within the repo you install `zcor_dummy` to. Install it in a clean
+python environment or proceed with caution.***
 
 
 ## Sample dummy programs
 
 Please take a look at the python script (run_dummy_model.py) provided to have an idea about the interface necessary.
 We next describe the IO specification
-
 
 
 
@@ -28,8 +43,8 @@ will be provided for reference.
 Example usage with provided data:
 
 ```
-python3 run_dummy_model.py -p SAMPLE_MODEL.pickle -i sample_data.json -o sample_predictions.json -v True
-python3 run_dummy_model.py -p SAMPLE_MODEL.pickle -i sample_data.json -v True
+python3 run_dummy_model.py -p DUMMY_PREDICTOR.pickle -i sample_data.json -o sample_predictions.json -v True
+python3 run_dummy_model.py -p DUMMY_PREDICTOR.pickle -i sample_data.json -v True
 ```
 
 If -o if not specified, the script will print the json object into the STDOUT.

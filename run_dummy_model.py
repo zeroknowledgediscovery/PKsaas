@@ -1,8 +1,5 @@
 #!/usr/bin/python3
 import json
-import os
-import pickle
-import random
 import sys
 import argparse
 from datetime import datetime
@@ -13,35 +10,8 @@ warnings.simplefilter('ignore')
 import pandas as pd
 from tqdm import tqdm
 
-class QuasiZcorClassifier:
-    def __init__(self,
-                 max_dummy_risk,
-                 dummy_threshold,
-                 max_dummy_confidence):
-        self.max_dummy_risk = max_dummy_risk
-        self.dummy_threshold = dummy_threshold
-        self.max_dummy_confidence = max_dummy_confidence
-
-    def deliver_predictions(self, predictions, VERBOSE = False):
-        predictions = converted_data[['patient_id']]
-        predictions['predicted_risk'] = [random.uniform(0, self.max_dummy_risk) for i in range(predictions.shape[0])]
-        if args.VERBOSE:
-            print("Interpreting the predictions")
-        predictions['decision'] = [int(i > self.dummy_threshold) for i in predictions['predicted_risk']]
-        predictions['confidence'] = [random.uniform(0, self.max_dummy_confidence) for i in range(predictions.shape[0])]
-
-        json_predictions = predictions.to_dict(orient = 'records')
-        return json_predictions
-
-ZCOR_ROOT = os.path.dirname(
-    os.path.dirname(
-        os.path.dirname(
-            os.path.abspath(__file__)
-        )
-    )
-)
-sys.path.insert(0, ZCOR_ROOT)
-from zcor_utils.json import json_to_row
+from zcor_dummy.classifier import load_classifier_object
+from zcor_dummy.utils import json_to_row
 
 parser = argparse.ArgumentParser(description='Run ZCoR object.')
 
@@ -65,7 +35,7 @@ args = parser.parse_args()
 
 RUN_NAME = datetime.now().strftime('%m-%d-%y-%H-%M')
 
-PREDICTOR = pickle.load(open(args.PREDICTOR_FILE, "rb"))
+PREDICTOR = load_classifier_object(args.PREDICTOR_FILE)
 
 with open(args.INPUT_DATA_FILE, 'r') as json_file:
     raw_json_data = json.load(json_file)
